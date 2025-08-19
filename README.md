@@ -5,7 +5,11 @@ Welcome to the official repository for Sayanjali Nexus (SYJ) — a comprehensive
 ## SYJ Token Overview
 
 - **Token Name:** Sayanjali Nexus Token (SYJ)
-- **Total Supply:** 100,000,000,000 (100 Billion) — fixed at mainnet launch
+- **Total Supply:** 140,000,000,000 (140 Billion)
+	•	Fixed & Non-Mintable: No additional supply will ever be created beyond this cap.
+	•	Smart Contract Functions: Transfer, Burn, Vesting, Governance Voting (Planned).
+	•	Contract Address: To be published post-audit and mainnet launch.
+
 - **Symbol:** SYJ
 
 The SYJ Token powers payments, loyalty programs, staking for exclusive access, and future governance within the Sayanjali Nexus ecosystem.
