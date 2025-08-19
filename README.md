@@ -12,8 +12,7 @@ Welcome to the official repository for Sayanjali Nexus (SYJ) — a comprehensive
 
 - **Symbol:** SYJ
 
-The SYJ Token powers payments, loyalty programs, staking for exclusive access, and future governance within the Sayanjali Nexus ecosystem.
-
+The SYJ Token powers payments, loyalty programs, staking for exclusive access, and future governance.
 ## Key Features
 
 - Payments and discounts/cashbacks across SNPL brands
@@ -22,7 +21,9 @@ The SYJ Token powers payments, loyalty programs, staking for exclusive access, a
 - Access to apps, launches, and community programs
 - Future SYJ chain fees and credits
 
-## Tokenomics
+## Tokenomics & Allocation (Updated)
+
+Authoritative Distribution — v1.1 (August 2025
 
 | Category                | Allocation | Lock Period       | Purpose                        |
 |-------------------------|------------|-------------------|--------------------------------|
