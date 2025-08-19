@@ -21,19 +21,19 @@ The SYJ Token powers payments, loyalty programs, staking for exclusive access, a
 - Access to apps, launches, and community programs
 - Future SYJ chain fees and credits
 
-## Tokenomics & Allocation (Updated)
+## Tokenomics & Allocation
 
 Authoritative Distribution — v1.1 (August 2025
 
-| Category                | Allocation | Lock Period       | Purpose                        |
-|-------------------------|------------|-------------------|--------------------------------|
-| Presale                 | 20%        | None              | Early liquidity & supporters   |
-| Team & Advisors         | 10%        | 24 months         | Long-term commitment           |
-| Community Rewards       | 15%        | Monthly           | Staking, airdrops, engagement  |
-| Development Fund        | 15%        | Milestone-based   | Platform & chain development   |
-| Marketing & Partnerships| 15%        | 6 months          | Brand growth & partnerships    |
-| Ecosystem Treasury      | 15%        | DAO-governed      | Sustainable operations         |
-| Liquidity Pool          | 10%        | None              | Trading stability              |
+| Category                | Allocation | Amount (SYJ)  | Lock Period             | Purpose                                                |
+|-------------------------|------------|---------------|-------------------------|--------------------------------------------------------|
+| Public Presale          | 32%        | 44.8 Billion  | None                    | Early liquidity & community entry                      |
+| Ecosystem Growth        | 14%        | 19.6 Billion  | Milestone-based         | Merchant adoption, integrations, and product expansion |
+| Treasury                | 12%        | 16.8 Billion  | DAO-governed            | Sustainable operations, grants, reserves               |
+| Rewards                 | 12%        | 16.8 Billion  | Distributed monthly     | Staking, loyalty, referrals, community incentives      |
+| Liquidity               | 12%        | 16.8 Billion  | Locked post-DEX listing | Trading stability & market health                      |
+| Community Fund          | 10%        | 14.0 Billion  | DAO oversight           | Education, grassroots adoption, outreach               |
+| Team & Advisors         | 08%        | 11.2 Billion  | 24 months vesting       | Long-term alignment & retention                        |
 
 ## Website
 
